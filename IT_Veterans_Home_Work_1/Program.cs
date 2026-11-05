@@ -102,7 +102,7 @@ namespace IT_Veterans_Home_Work_1
             Console.WriteLine("\t\tSelekt geometric figure \n\t 1 - sphere, 2 - parallelepiped, 3 - pyramid ");
 
 
-            Console.WriteLine("Enter the ");
+            Console.WriteLine("Enter the for parallelepiped ");
             Console.Write("legth(sm): ");
             Console.ForegroundColor = ConsoleColor.Green;
             string leghtStr = Console.ReadLine();
